@@ -1,0 +1,15 @@
+{
+  "name": "anime-text-to-video",
+  "version": "1.0.0",
+  "description": "AI Text to Anime Video Generator like Pika & Genmo",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
